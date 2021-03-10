@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.content-width{
+  width: 300px;
+  height: auto;
+  margin: 30px;
+  text-align: center;
+}
+
+p{
+  margin-bottom: 30px;
+}
+
+.time{
+  margin-bottom: 30px;
+  font-size: 36px;
+}
+
+.btn{
+  width: 80px;
+  height: 40px;
+  font-weight: bold;
+}
